@@ -1,0 +1,8 @@
+#AndroidR原生LauncherUI加载流程
+##Launcher布局结构
+###原生Launcher主要组成部分：
+桌面界面(Workspace/WorkspacePageIndicator/Hotseat)
+桌面Item/Widget/Folder拖动后的界面(DropTargetBar)
+全部应用页面(LauncherAllAppsContainerView)
+最近使用界面(LauncherRecentView/OverViewActionsView)，如图：
+图片: https://uploader.shimo.im/f/3ow16a8CR4UzEqqi.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhY2Nlc3NfcmVzb3VyY2UiLCJleHAiOjE2MjgxNzc4MjMsImciOiJkeXJ0Q3lodFB0dGs2UmdYIiwiaWF0IjoxNjI4MTc3NTIzLCJ1c2VySWQiOjQ5MDEyMDV9.lHQhBC0mwbbP1sXX1LWpSHngoyi-ozq6jdS2p0qW1Ow
